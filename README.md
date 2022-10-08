@@ -6,6 +6,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on crazy stuff
-- 🌱 I’m currently learning C
-- 👯 I’m looking to collaborate on C
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on C++
 - 🤔 I’m looking for help with my projects
