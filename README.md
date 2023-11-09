@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hélio</h1>
 <h3 align="center">Junior Developer</h3>
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **java** **c++** **python**
 
-- 🤝 I’m looking for help with **c++**
+- 🤝 I’m looking for help with **java** **c++** **python**
 
 - 📝 I regularly write articles on [helio.pt](helio.pt)
 
