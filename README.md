@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **java** , **c++** , **python**
 
-- 📝 I regularly write articles on [helio.pt](helio.pt)
+- 📝 I regularly write articles on [helio.pt](src="https://helio.pt")
 
 
 <h3 align="left">Languages and Tools:</h3>
