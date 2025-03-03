@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hélio</h1>
 <h3 align="center">Junior Developer</h3>
 
-- 🌱 I’m currently learning **PHP**, **HTML-CSS-JavaScript** , **java** , **c++** , **python**
+- 🌱 I’m currently learning **PHP**, **HTML-CSS-JavaScript**
 
 - 📝 I regularly write articles on [helio.pt](https://helio.pt)
 
