@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hélio</h1>
-<h3 align="center">Junior Developer</h3>
+<h3 align="center">PHP Developer</h3>
 
 - 🌱 I’m currently learning **PHP**, **HTML-CSS-JavaScript**
 
-- 📝 I regularly write articles on [helio.pt](https://helio.pt)
+- 📝 Sometimes write articles on [helio.pt](https://helio.pt)
 
 
 <h3 align="left">Languages and Tools:</h3>
